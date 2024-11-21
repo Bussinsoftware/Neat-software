@@ -1,6 +1,8 @@
 # Neat-software
 
+<img src="https://github.com/Bussinsoftware/Neat-software/blob/main/neat.jpg"/>
 
+[GET A DEMO](https://bit.ly/3ZhtK0c)
 
 Financial reporting made easy so you can spend time focused on where you want it.
 
@@ -39,5 +41,8 @@ Get into the habit of uploading important documents as soon as you get them and 
 
 Creating folders and subfolders is fast and easy, letting you arrange and adapt as you go. Store your receipts in subfolders to easily create expense reports, or organize documents in folders categorized by project, client, or month. Neat gives you the freedom to organize in a way that makes sense for you.
 
-Certified Hardware Partners
+**Certified Hardware Partners**
+
 Neat works with any TWAIN compliant scanner, which includes most scanners on the market today. Additionally, Neat works with most major manufacturers to ensure their devices work seamlessly with Neat’s software. Connecting these devices is covered as part of our standard support plans.
+
+[GET A DEMO](https://bit.ly/3ZhtK0c)
